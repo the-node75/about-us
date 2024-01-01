@@ -39,6 +39,10 @@ https://www.validators.app/validators/F1SoQ1BEfe3vTYu5bis3eif5ATra1YNcj3fx22EcJ2
 https://terrasco.pe/mainnet/validators/terravaloper1puzp2yjqps43x7nse33svljc550xjz35jxg432
 
 
+### UX (Umee)
+https://www.mintscan.io/umee/validators/umeevaloper1vn5ysf7u9dssn2pm6h8agmqerxc5mq79p3e9ny
+
+
 ### Uptick
 https://uptick.explorers.guru/validator/uptickvaloper1374uf6fsndny7fqf4ngxqt42806zxt5t9zlw8v
 
