@@ -11,8 +11,7 @@ https://explorer.c4e.io/validators/c4evaloper1aptwn452e2kjm4fv9ev6vhfssd02u9lpk2
 
 
 ### Composable 
-https://ping.pub/Centauri/staking/centaurivaloper12zlkhsyrlfusqrfdag3ktwf6uxzdr9zxqdwyya
-
+https://ping.pub/uptick/staking/uptickvaloper1374uf6fsndny7fqf4ngxqt42806zxt5t9zlw8v
 
 ### Evmos
 https://www.mintscan.io/evmos/validators/evmosvaloper1cn3mdzauql5af585mq0xksn26lmlh7naplgs6c
