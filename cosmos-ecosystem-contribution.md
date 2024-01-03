@@ -6,6 +6,14 @@
 * https://dev.mintscan.io/gravity-bridge/proposals/157
 * https://dev.mintscan.io/gravity-bridge/proposals/156
 
+### Participation in discussions
+
+Our profiles:
+
+* https://commonwealth.im/profile/id/95819
+* https://commonwealth.im/profile/id/38388
+* https://agora.terra.money/profile/id/66434
+
 
 ## Our IBC relayers list
 
